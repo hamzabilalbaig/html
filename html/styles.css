@@ -1,0 +1,65 @@
+.a{
+    background-color: aqua;
+}
+
+.b{
+    background-color: chartreuse;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 50px;
+    text-align: center;
+    border: solid;
+    border-radius: 50%;
+    box-shadow: yellow 10px 10px;
+    font-family: 'IM Fell English SC', serif;
+    color:red;
+    text-shadow: lightcoral 3px 3px;
+}
+
+.c{
+    display: block;
+    text-align: center;
+}
+
+.d{
+    background-color:black;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    border: solid;
+    border-radius: 10%;
+    border-style: groove;
+    font-family: sans-serif;
+    color: burlywood;
+    text-shadow: yellow 1px 1px;
+}
+
+.e{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+.f{
+    border-style: solid;
+    border-color: #00ffec;
+    color: #00ffec;
+    background-color: #ff0069;
+    padding: 10px 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.f:hover{
+    background-color: #00ffec;
+  
+}
+
+.g{
+    display: inline;
+    color: purple;
+    font-size: 30px;
+    background-color: seagreen;
+}
